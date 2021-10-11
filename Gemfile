@@ -12,3 +12,5 @@ gem "rake"
 gem "shotgun"
 gem 'rspec'
 gem 'capybara'
+gem 'sinatra-contrib'
+gem 'webrick'
