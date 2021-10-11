@@ -1,6 +1,6 @@
 feature "Viewing bookmarks at /bookmarks" do
     
-    scenario "User wants to view their bookmarks" do
+    scenario "User wants to views their bookmarks" do
         visit "/bookmarks"
         
         expect(page).to have_content "http://www.makersacademy.com"
