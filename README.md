@@ -13,3 +13,5 @@ As a user
 So i can delete a bookmark
 I want to be able to delete a bookmark from the database
 ```
+
+![Bookmark Manager domain model](../images/bookmark_manager_1.png)

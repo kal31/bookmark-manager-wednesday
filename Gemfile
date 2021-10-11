@@ -10,3 +10,5 @@ gem "sinatra"
 gem "pg"
 gem "rake"
 gem "shotgun"
+gem 'rspec'
+gem 'capybara'
